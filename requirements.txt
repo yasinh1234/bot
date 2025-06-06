@@ -1,0 +1,7 @@
+feedparser
+schedule
+beautifulsoup4
+requests
+python-telegram-bot
+googletrans==4.0.0rc1
+google-generativeai
